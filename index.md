@@ -35,7 +35,7 @@ Hi! My name is Raymond Liu
 
 ### My Lessons
 
-> Foundations in Tech are essential, click to see some of my femboy creations
+> Foundations in Tech are essential, click to see some of my creations
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
