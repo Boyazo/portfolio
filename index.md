@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Your Full Name]
+Hi! My name is Raymond Liu 
 
 ### Development Environment
 
@@ -35,7 +35,7 @@ Hi! My name is [Your Full Name]
 
 ### My Lessons
 
-> Foundations in Tech are essential, click to see some of my lesson creations.
+> Foundations in Tech are essential, click to see some of my femboy creations
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
