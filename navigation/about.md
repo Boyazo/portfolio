@@ -109,8 +109,8 @@ Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/Image1.JPG" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/Image2.JPG" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/Image3.JPG" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/Image2.jpeg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/Image3.jpeg" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/Image4.JPG" alt="Image 4">
   <img src="{{site.baseurl}}/images/about/Image5.JPG" alt="Image 5">
 </div>
