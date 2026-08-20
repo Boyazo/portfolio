@@ -108,13 +108,9 @@ Here is what I did at those places
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/Image1.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/Image2.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/Image3.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/Image4.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/Image5.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="{{site.baseurl}}/images/about/Image1.JPG" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/Image2.JPG" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/Image3.JPG" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/Image4.JPG" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/Image5.JPG" alt="Image 5">
 </div>
