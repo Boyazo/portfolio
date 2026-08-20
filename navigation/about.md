@@ -5,9 +5,9 @@ permalink: /about/
 comments: true
 ---
 
-## As a conversation Starter
+## My Life
 
-Here are some places I have lived.
+Here are the places that I have lived in.
 
 <style>
     /* Style looks pretty compact, 
