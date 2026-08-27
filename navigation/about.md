@@ -105,7 +105,7 @@ Here is what I did at those places
 - My current family living in the US includes my mom and dad, my older brother Arthur, and my younger sister Katie.
 
 <comment>
-Gallery of Pics, scroll to the right for more ...
+Gallery of Pics
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/Image1.JPG" alt="Image 1">
