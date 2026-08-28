@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is Raymond Liu!
+Hello! My name is Raymond Liu!
 
 ### Development Environment
 
