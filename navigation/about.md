@@ -57,7 +57,7 @@ Here are the places that I have lived in.
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "7/72/Flag_of_the_Republic_of_China.svg", "greeting": "你好", "description": "Taiwan - 0.5 years"}
+        {"flag": "7/72/Flag_of_the_Republic_of_China.svg", "greeting": "你好", "description": "Taiwan - 0.5 years"},
     ];
 
     // 3a. Consider how to update style count for size of container
